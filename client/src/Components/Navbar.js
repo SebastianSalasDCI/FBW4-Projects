@@ -36,7 +36,7 @@ export default function NavbarComp() {
         
     <Navbar className="navb" type="dark" theme="dark" expand="md">
         <NavLink to="/">
-            <NavbarBrand >FBW3 Projects</NavbarBrand>
+            <NavbarBrand >FBW4 Projects</NavbarBrand>
         </NavLink>
         <NavbarToggler onClick={toggleNavbar} />
 
