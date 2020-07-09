@@ -1,0 +1,160 @@
+{
+    "groups":[
+        {
+            "name":"Museful App",
+            "link":"museful",
+            "front-image":"/assets/g1/front.png",
+            "color":"fr",
+            "applink":"https://museful.herokuapp.com/",
+            "members":[
+                {
+                    "name":"Stefan Mendritzki",
+                    "email":"hi@mendritzk.io",
+                    "linkedin":"https://www.linkedin.com/in/stefanmendritzki/",
+                    "github":"https://github.com/HughMoron",
+                    "profile-image":"/assets/g1/steffan.JPG",
+                    "personalWeb":"https://www.mendritzk.io/"
+                },
+                {
+                    "name":"Lana Maksic",
+                    "email":"lana.maksic@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/lana-maksic/",
+                    "xing":"https://www.xing.com/profile/Lana_Maksic/cv",
+                    "github":"https://github.com/lanamaxic",
+                    "profile-image":"/assets/g1/Lana-2.jpg"
+                },
+                {
+                    "name":"Filiz Erkal",
+                    "email":"erkalfiliz8@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/devwebnow/",
+                    "xing":"https://www.xing.com/profile/Filiz_Erkal2/cv",
+                    "github":"https://github.com/FlzRkl",
+                    "profile-image":"/assets/g1/filiz.jpeg"
+                },
+                {
+                    "name":"Sascha Wollin",
+                    "email":"saschawollin@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/sascha-w-87b72b83/",
+                    "github":"https://github.com/Staschek",
+                    "profile-image":"/assets/g1/sasha.jpeg"
+                }
+            ],
+            "pageImages":[
+                "/assets/g1/wp (1).png",
+                "/assets/g1/wp (2).png",
+                "/assets/g1/wp (3).png",
+                "/assets/g1/wp (4).png",
+                "/assets/g1/wp (5).png",
+                "/assets/g1/wp (6).png",
+                "/assets/g1/wp (7).png"
+            ]
+        },
+        {
+            "name":"Welcome Deutschland",
+            "link":"welcome-deutschland",
+            "front-image":"/assets/g2/front.jpg",
+            "color":"em",
+            "members":[
+                {
+                    "name":"Ali Alhayek",
+                    "email":"alhayek_ali@outlook.com",
+                    "linkedin":"https://www.linkedin.com/in/ali-alhayek-775039191/",
+                    "github":"https://github.com/Re7wac",
+                    "profile-image":"/assets/g2/Ali.jpeg"
+                },
+                {
+                    "name":"Omer Frough",
+                    "email":" omer.frough786@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/omer-frough-794408191/",
+                    "github":"https://github.com/omerfrough786",
+                    "profile-image":"/assets/g2/omer.jpg"
+                },
+                {
+                    "name":"Philipp Puls    ",
+                    "email":"philipp.devo@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/philipp-puls-75264395/",
+                    "github":"https://github.com/cinna-dev",
+                    "profile-image":"/assets/g2/phillip.jpeg"
+                }
+            ],
+            "pageImages":[
+                "/assets/g2/wp (1).jpg",
+                "/assets/g2/wp (2).jpg",
+                "/assets/g2/wp (3).jpg"
+            ]
+        },
+        {
+            "name":"Trade Karma",
+            "link":"trade-karma",
+            "front-image":"/assets/g3/front.png",
+            "color":"sc",
+            "members":[
+                {
+                    "name":"Andri William",
+                    "email":"Andryos44@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/andri-william-5b65b48b/",
+                    "github":"https://github.com/andryosa",
+                    "profile-image":"/assets/g3/Andri.jpg"
+                },
+                {
+                    "name":"Eren Yilmaz",
+                    "email":"borulceprenss@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/erenyilmazdev/",
+                    "github":"https://github.com/SkyEngineerr",
+                    "profile-image":"/assets/g3/Eren.JPG",
+                    "personalWeb":"http://www.eren-yilmaz.com/"
+                },
+                {
+                    "name":"Mohammad Radan",
+                    "email":"jacob.radan2@gmail.com",
+                    "profile-image":"/assets/g3/Jay.JPG"
+                }
+            ],
+            "pageImages":[
+                "/assets/g3/wp (1).png",
+                "/assets/g3/wp (2).png",
+                "/assets/g3/wp (3).png",
+                "/assets/g3/wp (4).png"
+            ]
+        },
+        {
+            "name":"Attraction Park",
+            "link":"att-park",
+            "front-image":"/assets/g4/front.png",
+            "color":"eo",
+            "members":[
+                {
+                    "name":"Clemens Behrens",
+                    "email":"cbehrensbewer@gmail.com",
+                    "linkedin":"http://www.linkedin.com/in/clemens-behrens-883b591a1",
+                    "github":"https://github.com/ClemensITWorks/",
+                    "profile-image":"/assets/g4/Clemens Behrens.png"
+                }
+            ],
+            "pageImages":[
+                "/assets/g4/wp (1).png",
+                "/assets/g4/wp (2).png",
+                "/assets/g4/wp (3).png"
+            ]
+        },
+        {
+            "name":"Covid Resilience",
+            "link":"cv-res",
+            "front-image":"/assets/g5/front.jpg",
+            "color":"eo",
+            "members":[
+                {
+                    "name":"Javier Monteros",
+                    "email":"Monteros.javier@gmail.com",
+                    "linkedin":"https://www.linkedin.com/in/javier-monteros/",
+                    "xing":"https://www.xing.com/profile/JAVIERENRIQUE_MONTEROSMORENO/cv",
+                    "profile-image":"/assets/g5/javier.jpg"
+                }
+            ],
+            "pageImages":[
+                "/assets/g5/wp (1).jpg",
+                "/assets/g5/wp (2).jpg"
+            ]
+        }
+    ]
+}

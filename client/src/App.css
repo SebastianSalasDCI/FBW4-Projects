@@ -1,0 +1,139 @@
+/* If you are editing this. First I'm sorry for the name of the classes
+   Could have been better... Hope doesn't give you much headache */
+
+
+
+.main {
+  padding-top: 10px;
+  display: block;
+  position: relative;
+}
+
+.main::after {
+  content: "";
+  background: url("./img/dci.png");
+  background-repeat: no-repeat;
+  opacity: 0.5;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  position: absolute;
+  z-index: -1;   
+}
+
+.generalCont{
+  margin: 0 auto;
+  width: 65%;
+}
+
+.navb{
+  height: 45px;
+}
+
+.navlink{
+  color: white;
+}
+
+.linkActive{
+  font-weight: bold;
+  color: rgb(82, 82, 252);
+}
+
+.navItem{
+  margin: 0 10px;
+}
+
+.homeImg{
+  width: 100%;
+  height: auto;
+  border-radius:2%;
+}
+
+.cardsContainer{
+  margin-top: 50px;
+}
+
+.cardClass{
+  margin: 10px;
+}
+
+.middleimg{
+  left: 25%;
+}
+
+.cardClassProf{
+  margin: 10px;
+  width: 90%;
+  margin-bottom: 20px;
+}
+
+.projectTitle{
+  margin-top: 10px;
+  color: gray;
+  font-weight: bold;
+}
+
+.projectTitle:hover {
+  color: black;
+}
+
+.fr{
+  color: rgb(207, 74, 174);
+}
+
+.em{
+  color: #b8aa67;
+}
+
+.sc{
+  color: rgb(39, 29, 83);
+}
+
+.eo{
+  color: rgb(212, 71, 28);
+}
+
+
+.cardHeader{
+  /* text-align: center; */
+  color: black;
+  font-weight: bold;
+}
+
+.titleCont{
+  color: gray;
+  font-weight: 200;
+  text-align: center;
+  width: 80%;
+  margin: 40px auto;
+}
+
+.profImg{
+  width: 100%;
+  height: auto;
+}
+
+.titleSection{
+  margin-top: 10px;
+  font-weight: 400;
+}
+
+@media screen and (max-width: 800px) {
+  .titleCont {
+    margin-top: 200px;
+    width: 100%;
+  }
+
+  .main {
+    margin: 0 auto;
+  }
+  .navb{
+    height: auto;
+  }
+
+  .navItem{
+    margin: 10px;
+  }
+  
+}
