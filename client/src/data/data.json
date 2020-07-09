@@ -60,7 +60,8 @@
                     "email":"alhayek_ali@outlook.com",
                     "linkedin":"https://www.linkedin.com/in/ali-alhayek-775039191/",
                     "github":"https://github.com/Re7wac",
-                    "profile-image":"/assets/g2/Ali.jpeg"
+                    "profile-image":"/assets/g2/Ali.jpeg",
+                    "personalWeb":"https://my-cv-re7.herokuapp.com/"
                 },
                 {
                     "name":"Omer Frough",
